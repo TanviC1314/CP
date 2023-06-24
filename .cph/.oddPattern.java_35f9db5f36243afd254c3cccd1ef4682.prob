@@ -1,0 +1,1 @@
+{"name":"Local: oddPattern","url":"d:\\CP\\oddPattern.java","tests":[{"id":1687590752269,"input":"5","output":"*****\n ***\n  *"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\oddPattern.java","group":"local","local":true}
